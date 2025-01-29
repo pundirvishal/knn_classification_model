@@ -27,8 +27,6 @@ Welcome to the **KNN Classification Model** repository. This repository contains
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
