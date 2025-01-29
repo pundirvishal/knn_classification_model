@@ -60,7 +60,7 @@ The KNN model achieves high accuracy on the Iris dataset, demonstrating its effe
 For inquiries, please contact:
 
 **Vishal Pundir**  
-Email: [vishal.your-email@example.com](mailto:vishal.your-email@example.com)  
+Email: [vishal.your-email@example.com](mailto:pundirvishal200317@gmail.com)  
 GitHub: [pundirvishal](https://github.com/pundirvishal)
 
 
