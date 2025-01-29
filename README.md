@@ -21,16 +21,49 @@
 
 Welcome to the **KNN Classification Model** repository. This repository contains a simple implementation of a KNN (K-Nearest Neighbors) classification model using the Iris Dataset from the Sklearn library. It serves as a basic example of how to implement this well-known algorithm for educational purposes.
 
-## Project Structure
+# K-Nearest Neighbors Classification of the Iris Dataset
 
-- **IrisDataset.html**: A report file that visualizes data and model performance.
-- **IrisDataset.pdf**: A downloadable version of the HTML report.
-- **IrisDataset.py**: The Python script containing the KNN classification implementation.
-- **README.md**: This file, explaining the project setup and usage.
+## Table of Contents
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Installation
+## Introduction
+The K-Nearest Neighbors (KNN) algorithm is a simple yet powerful supervised machine learning algorithm used for classification and regression tasks. In this project, we've applied KNN to classify the Iris dataset, which consists of three different species of Iris flowers based on their sepal and petal measurements.
 
-To use this repository, clone it using the following command:
+## Dataset
+The Iris dataset is a classic in the field of machine learning and statistics. It contains 150 samples with four features:
+
+- **Sepal Length**
+- **Sepal Width**
+- **Petal Length**
+- **Petal Width**
+
+The target variable is the species of the Iris flower, which can be one of the following:
+
+- Iris Setosa
+- Iris Versicolor
+- Iris Virginica
+
+## Results
+The KNN model achieves high accuracy on the Iris dataset, demonstrating its effectiveness for simple classification tasks. The notebook includes detailed visualizations and explanations of each step, making it easy to understand how the model works.
+
+- **Model Accuracy:** 97%
+
+## Contact
+For inquiries, please contact:
+
+**Vishal Pundir**  
+Email: [vishal.your-email@example.com](mailto:vishal.your-email@example.com)  
+GitHub: [pundirvishal](https://github.com/pundirvishal)
+
+
 
 ```bash
 git clone https://github.com/pundirvishal/knn_classification_model.git
